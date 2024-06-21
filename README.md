@@ -1,2 +1,2 @@
-# Kernel_CI-
-Build Kernel With Actions
+# KernelCI
+Build Kernel With Github Action
