@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "The-Darkness",
-      "repo": "https://github.com/shenprjkt/android_kernel_xiaomi_ysl",
-      "branch": "4.19",
+      "name": "dtsi-4.19",
+      "repo": "https://github.com/WeebProjectXd/android_kernel_xiaomi_oxygen",
+      "branch": "lineage-21",
       "device": "ysl",
-      "defconfig": "ysl_defconfig"
+      "defconfig": "vendor/msm8953-perf_defconfig"
   },
     "toolchains": [
       {
