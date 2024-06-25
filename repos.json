@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "The-Darkness",
-      "repo": "https://github.com/shenprjkt/kernel_xiaomi_ysl",
-      "branch": "clo",
+      "repo": "https://github.com/shenprjkt/android_kernel_xiaomi_ysl",
+      "branch": "4.19",
       "device": "ysl",
       "defconfig": "ysl_defconfig"
   },
