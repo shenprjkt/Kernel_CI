@@ -2,15 +2,15 @@
   {
     "kernelSource": {
       "name": "The-Darkness",
-      "repo": "https://github.com/shenprjkt/android_kernel_xiaomi_ysl",
-      "branch": "4.19",
+      "repo": "https://github.com/ALprjkt/kernel_xiaomi_ysl",
+      "branch": "clo",
       "device": "ysl",
       "defconfig": "ysl_defconfig"
   },
     "toolchains": [
       {
-        "repo": "https://github.com/kdrag0n/proton-clang",
-        "branch": "master",
+        "repo": "https://github.com/Redmi-S2-Y2-Resources/Paradise_Clang",
+        "branch": "main",
         "name": "proton-clang",
         "binPath": ["bin"]
       }
