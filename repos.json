@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "The-Darkness",
-      "repo": "https://github.com/ALprjkt/kernel_xiaomi_ysl",
-      "branch": "clo",
+      "name": "Paradise",
+      "repo": "https://github.com/Redmi-S2-Y2-Resources/kernel_xiaomi_ysl",
+      "branch": "caf",
       "device": "ysl",
       "defconfig": "ysl_defconfig"
   },
