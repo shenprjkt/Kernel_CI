@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Paradise",
-      "repo": "https://github.com/WeebProjectXd/test-kernel",
-      "branch": "master-oos",
+      "repo": "https://github.com/Redmi-S2-Y2-Resources/kernel_xiaomi_ysl",
+      "branch": "Crying-OC",
       "device": "ysl",
       "defconfig": "ysl_defconfig"
   },
