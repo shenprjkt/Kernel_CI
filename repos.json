@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Paradise",
       "repo": "https://github.com/Redmi-S2-Y2-Resources/kernel_xiaomi_ysl",
-      "branch": "Crying-OC",
+      "branch": "caf",
       "device": "ysl",
       "defconfig": "ysl_defconfig"
   },
