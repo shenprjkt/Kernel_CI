@@ -9,8 +9,8 @@
   },
     "toolchains": [
       {
-        "repo": "https://github.com/Redmi-S2-Y2-Resources/Paradise_Clang",
-        "branch": "main",
+        "repo": "https://github.com/kdrag0n/proton-clang",
+        "branch": "master",
         "name": "proton-clang",
         "binPath": ["bin"]
       }
