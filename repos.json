@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Paradise",
-      "repo": "https://github.com/Redmi-S2-Y2-Resources/kernel_xiaomi_ysl",
-      "branch": "caf",
+      "repo": "https://github.com/shenprjkt/android_kernel_xiaomi_msm8953",
+      "branch": "13",
       "device": "ysl",
       "defconfig": "ysl_defconfig"
   },
