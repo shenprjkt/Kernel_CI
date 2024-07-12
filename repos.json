@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "Paradise",
-      "repo": "https://github.com/shenprjkt/android_kernel_xiaomi_msm8953",
+      "repo": "https://github.com/WeebProjectXd/kernel_xiaomi_msm8953",
       "branch": "13",
       "device": "ysl",
       "defconfig": "ysl_defconfig"
