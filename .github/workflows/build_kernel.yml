@@ -90,6 +90,12 @@ jobs:
 
           echo "Clone kernel source => ($KERNEL_REPO)"
 
+      - name: "Clone kernel-devicetree source => (${{ env.KERNEL_REPO }})"
+        run: |
+          git clone --recursive --depth=1 -j $(nproc) --branch $KERNEL_BRANCH1 $KERNEL_REPO1 $KERNEL_NAME1
+
+          echo "Clone kernel source => ($KERNEL_REPO)"
+
       - name: "Clone Clang"
         env:
           toolchains: "${{ toJSON(matrix.repos.toolchains) }}"
