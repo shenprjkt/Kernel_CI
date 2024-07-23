@@ -92,7 +92,7 @@ jobs:
 
       - name: "Clone kernel-devicetree source => (${{ env.KERNEL_REPO }})"
         run: |
-          git clone --recursive --depth=1 -j $(nproc) --branch $KERNEL_BRANCH1 $KERNEL_REPO1 $KERNEL_NAME1
+          git clone https://github.com/Redmi-S2-Y2-Resources/kernel_devicetree_xiaomi-msm8953 --depth=1 kernel/arch/arm64/boot/dts/xiaomi-msm8953
 
           echo "Clone kernel source => ($KERNEL_REPO)"
 
