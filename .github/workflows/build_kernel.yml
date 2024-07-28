@@ -244,5 +244,5 @@ jobs:
 
       - name: Upload Telegram
         run: |
-          wget https://raw.githubusercontent.com/Renzprjkt/KernelCI/ysl-4.9/upload.sh
+          wget https://raw.githubusercontent.com/shenprjkt/Kernel_CI/master/upload.sh
           bash upload.sh
