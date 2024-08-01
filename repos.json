@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "dtsi-4.19",
-      "repo": "https://github.com/WeebProjectXd/android_kernel_xiaomi_oxygen",
-      "branch": "lineage-21",
+      "repo": "https://github.com/Redmi-S2-Y2-Resources/msm-4.19",
+      "branch": "base",
       "device": "ysl",
       "defconfig": "vendor/msm8953-perf_defconfig"
   },
