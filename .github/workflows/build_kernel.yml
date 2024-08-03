@@ -92,7 +92,11 @@ jobs:
 
       - name: "Clone kernel-devicetree source"
         run: |
-          git clone https://github.com/Redmi-S2-Y2-Resources/kernel_devicetree_xiaomi-msm8953 --depth=1 kernel/arch/arm64/boot/dts/xiaomi-msm8953
+          git clone https://github.com/SnowsProject/kernel_devicetree_xiaomi-msm8953 -b main --depth=1 kernel/arch/arm64/boot/dts/xiaomi-msm8953
+
+      - name: "Clone kernel-devicetree source"
+        run: |
+          git clone https://github.com/SnowsProject/kernel_techpack_xiaomi_msm8953 -b main --depth=1 kernel/techpack/xiaomi-msm8953
 
       - name: "Clone Clang"
         env:
