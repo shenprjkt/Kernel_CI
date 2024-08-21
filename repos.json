@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/Redmi-S2-Y2-Resources/kernel_xiaomi_ysl",
-      "branch": "caf",
+      "repo": "https://github.com/SnowsProject/mainline_backport",
+      "branch": "ebpf",
       "device": "ysl",
       "defconfig": "ysl_defconfig"
   },
