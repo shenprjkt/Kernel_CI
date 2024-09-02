@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "kernel",
       "repo": "https://github.com/SnowsProject/msm8953-4.19",
-      "branch": "caf-base",
+      "branch": "caf_base",
       "device": "ysl",
       "defconfig": "vendor/msm8953-perf_defconfig"
   },
