@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/SnowsProject/mainline_backport",
-      "branch": "ebpf-4.10.y",
+      "repo": "https://github.com/SnowsProject/msm8953-4.19",
+      "branch": "caf-base",
       "device": "ysl",
-      "defconfig": "ysl_defconfig"
+      "defconfig": "vendor/msm8953-perf_defconfig"
   },
     "toolchains": [
       {
