@@ -96,7 +96,7 @@ jobs:
 
       - name: "Clone kernel-devicetree source"
         run: |
-          git clone https://github.com/SnowsProject/kernel_techpack_xiaomi_msm8953 -b main --depth=1 kernel/techpack/xiaomi-msm8953
+          git clone https://github.com/shenprjkt/touchscreen_drivers_xiaomi_msm8953 -b msm-4.9 --depth=1 /kernel/drivers/input/touchscreen-xiaomi-msm8953
 
       - name: "Clone Clang"
         env:
