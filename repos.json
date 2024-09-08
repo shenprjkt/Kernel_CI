@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/SnowsProject/msm8953-4.19",
-      "branch": "caf_base",
+      "repo": "https://github.com/Redmi-S2-Y2-Resources/kernel_xiaomi_ysl",
+      "branch": "caf",
       "device": "ysl",
-      "defconfig": "vendor/msm8953-perf_defconfig"
+      "defconfig": "ysl_defconfig"
   },
     "toolchains": [
       {
